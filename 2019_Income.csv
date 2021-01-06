@@ -1,0 +1,261 @@
+,Location,Household Type,TimeFrame,DataFormat,Data,Fips
+56,New York City,All Households,2019,Dollars,69407,3651000
+57,New York City,Families,2019,Dollars,78113,3651000
+58,New York City,Families with Children,2019,Dollars,69028,3651000
+59,New York City,Families without Children,2019,Dollars,84278,3651000
+64,Manhattan,All Households,2019,Dollars,93651,36061
+65,Manhattan,Families,2019,Dollars,126690,36061
+66,Manhattan,Families with Children,2019,Dollars,140841,36061
+67,Manhattan,Families without Children,2019,Dollars,121669,36061
+173,Battery Park/Tribeca,Families without Children,2019,Dollars,204568,101
+174,Battery Park/Tribeca,Families with Children,2019,Dollars,250001,101
+175,Battery Park/Tribeca,Families,2019,Dollars,230219,101
+176,Battery Park/Tribeca,All Households,2019,Dollars,162092,101
+183,Greenwich Village,All Households,2019,Dollars,162092,102
+184,Greenwich Village,Families,2019,Dollars,230219,102
+185,Greenwich Village,Families with Children,2019,Dollars,250001,102
+186,Greenwich Village,Families without Children,2019,Dollars,204568,102
+293,Lower East Side,Families without Children,2019,Dollars,45183,103
+294,Lower East Side,Families with Children,2019,Dollars,38510,103
+295,Lower East Side,Families,2019,Dollars,42400,103
+296,Lower East Side,All Households,2019,Dollars,41302,103
+303,Chelsea/Clinton,All Households,2019,Dollars,120248,104
+304,Chelsea/Clinton,Families,2019,Dollars,186093,104
+305,Chelsea/Clinton,Families with Children,2019,Dollars,155955,104
+306,Chelsea/Clinton,Families without Children,2019,Dollars,190740,104
+413,Midtown Business District,Families without Children,2019,Dollars,190740,105
+414,Midtown Business District,Families with Children,2019,Dollars,155955,105
+415,Midtown Business District,Families,2019,Dollars,186093,105
+416,Midtown Business District,All Households,2019,Dollars,120248,105
+423,Murray Hill/Stuyvesant,All Households,2019,Dollars,154501,106
+424,Murray Hill/Stuyvesant,Families,2019,Dollars,219465,106
+425,Murray Hill/Stuyvesant,Families with Children,2019,Dollars,247577,106
+426,Murray Hill/Stuyvesant,Families without Children,2019,Dollars,217813,106
+533,Upper West Side,Families without Children,2019,Dollars,236136,107
+534,Upper West Side,Families with Children,2019,Dollars,250001,107
+535,Upper West Side,Families,2019,Dollars,242446,107
+536,Upper West Side,All Households,2019,Dollars,136735,107
+543,Upper East Side,All Households,2019,Dollars,134264,108
+544,Upper East Side,Families,2019,Dollars,225919,108
+545,Upper East Side,Families with Children,2019,Dollars,250001,108
+546,Upper East Side,Families without Children,2019,Dollars,179869,108
+653,Manhattanville,Families without Children,2019,Dollars,84861,109
+654,Manhattanville,Families with Children,2019,Dollars,112317,109
+655,Manhattanville,Families,2019,Dollars,88914,109
+656,Manhattanville,All Households,2019,Dollars,68370,109
+663,Central Harlem,All Households,2019,Dollars,54932,110
+664,Central Harlem,Families,2019,Dollars,61606,110
+665,Central Harlem,Families with Children,2019,Dollars,51599,110
+666,Central Harlem,Families without Children,2019,Dollars,69025,110
+773,East Harlem,Families without Children,2019,Dollars,50505,111
+774,East Harlem,Families with Children,2019,Dollars,34242,111
+775,East Harlem,Families,2019,Dollars,40114,111
+776,East Harlem,All Households,2019,Dollars,32408,111
+783,Washington Heights,All Households,2019,Dollars,53507,112
+784,Washington Heights,Families,2019,Dollars,59517,112
+785,Washington Heights,Families with Children,2019,Dollars,51839,112
+786,Washington Heights,Families without Children,2019,Dollars,63179,112
+892,Bronx,Families without Children,2019,Dollars,61248,36005
+893,Bronx,Families with Children,2019,Dollars,41129,36005
+894,Bronx,Families,2019,Dollars,50835,36005
+895,Bronx,All Households,2019,Dollars,41432,36005
+900,Mott Haven,Families without Children,2019,Dollars,43680,201
+901,Mott Haven,Families with Children,2019,Dollars,22437,201
+902,Mott Haven,Families,2019,Dollars,35196,201
+903,Mott Haven,All Households,2019,Dollars,25074,201
+1016,Hunts Point,All Households,2019,Dollars,25074,202
+1017,Hunts Point,Families,2019,Dollars,35196,202
+1018,Hunts Point,Families with Children,2019,Dollars,22437,202
+1019,Hunts Point,Families without Children,2019,Dollars,43680,202
+1020,Morrisania,Families without Children,2019,Dollars,42407,203
+1021,Morrisania,Families with Children,2019,Dollars,27471,203
+1022,Morrisania,Families,2019,Dollars,35295,203
+1023,Morrisania,All Households,2019,Dollars,23605,203
+1136,Concourse/Highbridge,All Households,2019,Dollars,32559,204
+1137,Concourse/Highbridge,Families,2019,Dollars,41687,204
+1138,Concourse/Highbridge,Families with Children,2019,Dollars,36914,204
+1139,Concourse/Highbridge,Families without Children,2019,Dollars,49117,204
+1140,University Heights,Families without Children,2019,Dollars,46311,205
+1141,University Heights,Families with Children,2019,Dollars,38093,205
+1142,University Heights,Families,2019,Dollars,41941,205
+1143,University Heights,All Households,2019,Dollars,32025,205
+1256,East Tremont,All Households,2019,Dollars,23605,206
+1257,East Tremont,Families,2019,Dollars,35295,206
+1258,East Tremont,Families with Children,2019,Dollars,27471,206
+1259,East Tremont,Families without Children,2019,Dollars,42407,206
+1260,Bedford Park,Families without Children,2019,Dollars,56260,207
+1261,Bedford Park,Families with Children,2019,Dollars,40863,207
+1262,Bedford Park,Families,2019,Dollars,47784,207
+1263,Bedford Park,All Households,2019,Dollars,41336,207
+1376,Riverdale,All Households,2019,Dollars,61248,208
+1377,Riverdale,Families,2019,Dollars,71037,208
+1378,Riverdale,Families with Children,2019,Dollars,67656,208
+1379,Riverdale,Families without Children,2019,Dollars,74414,208
+1380,Unionport/Soundview,Families without Children,2019,Dollars,57920,209
+1381,Unionport/Soundview,Families with Children,2019,Dollars,41767,209
+1382,Unionport/Soundview,Families,2019,Dollars,52378,209
+1383,Unionport/Soundview,All Households,2019,Dollars,43975,209
+1496,Throgs Neck,All Households,2019,Dollars,61029,210
+1497,Throgs Neck,Families,2019,Dollars,70728,210
+1498,Throgs Neck,Families with Children,2019,Dollars,61417,210
+1499,Throgs Neck,Families without Children,2019,Dollars,71236,210
+1500,Pelham Parkway,Families without Children,2019,Dollars,74441,211
+1501,Pelham Parkway,Families with Children,2019,Dollars,53222,211
+1502,Pelham Parkway,Families,2019,Dollars,67636,211
+1503,Pelham Parkway,All Households,2019,Dollars,58204,211
+1616,Williamsbridge,All Households,2019,Dollars,60228,212
+1617,Williamsbridge,Families,2019,Dollars,68854,212
+1618,Williamsbridge,Families with Children,2019,Dollars,55352,212
+1619,Williamsbridge,Families without Children,2019,Dollars,76192,212
+1624,Brooklyn,All Households,2019,Dollars,66937,36047
+1625,Brooklyn,Families,2019,Dollars,74422,36047
+1626,Brooklyn,Families with Children,2019,Dollars,66936,36047
+1627,Brooklyn,Families without Children,2019,Dollars,79400,36047
+1733,Williamsburg/Greenpoint,Families without Children,2019,Dollars,88784,301
+1734,Williamsburg/Greenpoint,Families with Children,2019,Dollars,74327,301
+1735,Williamsburg/Greenpoint,Families,2019,Dollars,81507,301
+1736,Williamsburg/Greenpoint,All Households,2019,Dollars,98284,301
+1743,Fort Greene/Brooklyn Hts,All Households,2019,Dollars,111546,302
+1744,Fort Greene/Brooklyn Hts,Families,2019,Dollars,140272,302
+1745,Fort Greene/Brooklyn Hts,Families with Children,2019,Dollars,190541,302
+1746,Fort Greene/Brooklyn Hts,Families without Children,2019,Dollars,127884,302
+1853,Bedford Stuyvesant,Families without Children,2019,Dollars,73065,303
+1854,Bedford Stuyvesant,Families with Children,2019,Dollars,45782,303
+1855,Bedford Stuyvesant,Families,2019,Dollars,62050,303
+1856,Bedford Stuyvesant,All Households,2019,Dollars,61186,303
+1863,Bushwick,All Households,2019,Dollars,66275,304
+1864,Bushwick,Families,2019,Dollars,61653,304
+1865,Bushwick,Families with Children,2019,Dollars,56129,304
+1866,Bushwick,Families without Children,2019,Dollars,66280,304
+1973,East New York,Families without Children,2019,Dollars,58357,305
+1974,East New York,Families with Children,2019,Dollars,46386,305
+1975,East New York,Families,2019,Dollars,51274,305
+1976,East New York,All Households,2019,Dollars,45991,305
+1983,Park Slope,All Households,2019,Dollars,155250,306
+1984,Park Slope,Families,2019,Dollars,191442,306
+1985,Park Slope,Families with Children,2019,Dollars,203243,306
+1986,Park Slope,Families without Children,2019,Dollars,178700,306
+2093,Sunset Park,Families without Children,2019,Dollars,85443,307
+2094,Sunset Park,Families with Children,2019,Dollars,58391,307
+2095,Sunset Park,Families,2019,Dollars,69809,307
+2096,Sunset Park,All Households,2019,Dollars,67871,307
+2103,Crown Heights North,All Households,2019,Dollars,74429,308
+2104,Crown Heights North,Families,2019,Dollars,81329,308
+2105,Crown Heights North,Families with Children,2019,Dollars,88351,308
+2106,Crown Heights North,Families without Children,2019,Dollars,76379,308
+2213,Crown Heights South,Families without Children,2019,Dollars,78110,309
+2214,Crown Heights South,Families with Children,2019,Dollars,60688,309
+2215,Crown Heights South,Families,2019,Dollars,71983,309
+2216,Crown Heights South,All Households,2019,Dollars,66701,309
+2223,Bay Ridge,All Households,2019,Dollars,76569,310
+2224,Bay Ridge,Families,2019,Dollars,89345,310
+2225,Bay Ridge,Families with Children,2019,Dollars,91935,310
+2226,Bay Ridge,Families without Children,2019,Dollars,87713,310
+2333,Bensonhurst,Families without Children,2019,Dollars,67307,311
+2334,Bensonhurst,Families with Children,2019,Dollars,59268,311
+2335,Bensonhurst,Families,2019,Dollars,64755,311
+2336,Bensonhurst,All Households,2019,Dollars,57139,311
+2343,Borough Park,All Households,2019,Dollars,55071,312
+2344,Borough Park,Families,2019,Dollars,57904,312
+2345,Borough Park,Families with Children,2019,Dollars,51587,312
+2346,Borough Park,Families without Children,2019,Dollars,62144,312
+2453,Coney Island,Families without Children,2019,Dollars,52491,313
+2454,Coney Island,Families with Children,2019,Dollars,50855,313
+2455,Coney Island,Families,2019,Dollars,52000,313
+2456,Coney Island,All Households,2019,Dollars,40711,313
+2463,Flatbush/Midwood,All Households,2019,Dollars,65599,314
+2464,Flatbush/Midwood,Families,2019,Dollars,78076,314
+2465,Flatbush/Midwood,Families with Children,2019,Dollars,68911,314
+2466,Flatbush/Midwood,Families without Children,2019,Dollars,85968,314
+2573,Sheepshead Bay,Families without Children,2019,Dollars,104165,315
+2574,Sheepshead Bay,Families with Children,2019,Dollars,80477,315
+2575,Sheepshead Bay,Families,2019,Dollars,90440,315
+2576,Sheepshead Bay,All Households,2019,Dollars,75127,315
+2583,Brownsville,All Households,2019,Dollars,31345,316
+2584,Brownsville,Families,2019,Dollars,40578,316
+2585,Brownsville,Families with Children,2019,Dollars,28585,316
+2586,Brownsville,Families without Children,2019,Dollars,49580,316
+2693,East Flatbush,Families without Children,2019,Dollars,74895,317
+2694,East Flatbush,Families with Children,2019,Dollars,67436,317
+2695,East Flatbush,Families,2019,Dollars,72723,317
+2696,East Flatbush,All Households,2019,Dollars,60895,317
+2703,Canarsie,All Households,2019,Dollars,80471,318
+2704,Canarsie,Families,2019,Dollars,93207,318
+2705,Canarsie,Families with Children,2019,Dollars,90463,318
+2706,Canarsie,Families without Children,2019,Dollars,93909,318
+2812,Queens,Families without Children,2019,Dollars,86501,36081
+2813,Queens,Families with Children,2019,Dollars,75501,36081
+2814,Queens,Families,2019,Dollars,82534,36081
+2815,Queens,All Households,2019,Dollars,73696,36081
+2820,Astoria,Families without Children,2019,Dollars,92755,401
+2821,Astoria,Families with Children,2019,Dollars,75972,401
+2822,Astoria,Families,2019,Dollars,88662,401
+2823,Astoria,All Households,2019,Dollars,79180,401
+2936,Sunnyside/Woodside,All Households,2019,Dollars,80913,402
+2937,Sunnyside/Woodside,Families,2019,Dollars,95035,402
+2938,Sunnyside/Woodside,Families with Children,2019,Dollars,79362,402
+2939,Sunnyside/Woodside,Families without Children,2019,Dollars,105726,402
+2940,Jackson Heights,Families without Children,2019,Dollars,70584,403
+2941,Jackson Heights,Families with Children,2019,Dollars,51864,403
+2942,Jackson Heights,Families,2019,Dollars,66791,403
+2943,Jackson Heights,All Households,2019,Dollars,67201,403
+3056,Elmhurst/Corona,All Households,2019,Dollars,67143,404
+3057,Elmhurst/Corona,Families,2019,Dollars,67886,404
+3058,Elmhurst/Corona,Families with Children,2019,Dollars,58182,404
+3059,Elmhurst/Corona,Families without Children,2019,Dollars,78892,404
+3060,Ridgewood/Glendale,Families without Children,2019,Dollars,83002,405
+3061,Ridgewood/Glendale,Families with Children,2019,Dollars,75686,405
+3062,Ridgewood/Glendale,Families,2019,Dollars,79730,405
+3063,Ridgewood/Glendale,All Households,2019,Dollars,72781,405
+3176,Rego Park/Forest Hills,All Households,2019,Dollars,89160,406
+3177,Rego Park/Forest Hills,Families,2019,Dollars,120120,406
+3178,Rego Park/Forest Hills,Families with Children,2019,Dollars,134289,406
+3179,Rego Park/Forest Hills,Families without Children,2019,Dollars,105599,406
+3180,Flushing,Families without Children,2019,Dollars,64190,407
+3181,Flushing,Families with Children,2019,Dollars,62011,407
+3182,Flushing,Families,2019,Dollars,63497,407
+3183,Flushing,All Households,2019,Dollars,54933,407
+3296,Fresh Meadows/Briarwood,All Households,2019,Dollars,72166,408
+3297,Fresh Meadows/Briarwood,Families,2019,Dollars,85373,408
+3298,Fresh Meadows/Briarwood,Families with Children,2019,Dollars,76256,408
+3299,Fresh Meadows/Briarwood,Families without Children,2019,Dollars,88152,408
+3300,Woodhaven,Families without Children,2019,Dollars,85907,409
+3301,Woodhaven,Families with Children,2019,Dollars,91903,409
+3302,Woodhaven,Families,2019,Dollars,87282,409
+3303,Woodhaven,All Households,2019,Dollars,76978,409
+3416,Howard Beach,All Households,2019,Dollars,84258,410
+3417,Howard Beach,Families,2019,Dollars,94897,410
+3418,Howard Beach,Families with Children,2019,Dollars,77002,410
+3419,Howard Beach,Families without Children,2019,Dollars,103883,410
+3420,Bayside,Families without Children,2019,Dollars,102316,411
+3421,Bayside,Families with Children,2019,Dollars,120639,411
+3422,Bayside,Families,2019,Dollars,108371,411
+3423,Bayside,All Households,2019,Dollars,92682,411
+3536,Jamaica/St. Albans,All Households,2019,Dollars,65744,412
+3537,Jamaica/St. Albans,Families,2019,Dollars,78138,412
+3538,Jamaica/St. Albans,Families with Children,2019,Dollars,69223,412
+3539,Jamaica/St. Albans,Families without Children,2019,Dollars,82264,412
+3540,Queens Village,Families without Children,2019,Dollars,103730,413
+3541,Queens Village,Families with Children,2019,Dollars,103134,413
+3542,Queens Village,Families,2019,Dollars,103586,413
+3543,Queens Village,All Households,2019,Dollars,94789,413
+3656,The Rockaways,All Households,2019,Dollars,55034,414
+3657,The Rockaways,Families,2019,Dollars,62257,414
+3658,The Rockaways,Families with Children,2019,Dollars,60043,414
+3659,The Rockaways,Families without Children,2019,Dollars,69755,414
+3664,Staten Island,All Households,2019,Dollars,89821,36085
+3665,Staten Island,Families,2019,Dollars,105438,36085
+3666,Staten Island,Families with Children,2019,Dollars,104641,36085
+3667,Staten Island,Families without Children,2019,Dollars,106015,36085
+3773,St. George,Families without Children,2019,Dollars,104187,501
+3774,St. George,Families with Children,2019,Dollars,81392,501
+3775,St. George,Families,2019,Dollars,100016,501
+3776,St. George,All Households,2019,Dollars,75180,501
+3783,South Beach,All Households,2019,Dollars,82089,502
+3784,South Beach,Families,2019,Dollars,92195,502
+3785,South Beach,Families with Children,2019,Dollars,81748,502
+3786,South Beach,Families without Children,2019,Dollars,95935,502
+3893,Tottenville,Families without Children,2019,Dollars,126728,503
+3894,Tottenville,Families with Children,2019,Dollars,122406,503
+3895,Tottenville,Families,2019,Dollars,125123,503
+3896,Tottenville,All Households,2019,Dollars,108025,503
