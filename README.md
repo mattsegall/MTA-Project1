@@ -13,7 +13,7 @@ The goal of this project was to do EDA and data visualization on MTA turnstile d
 
 [MTA turnstile data](http://web.mta.info/developers/turnstile.html)
 
-[Income data by zipcode](https://www.census.gov/)
+[Income data by zipcode](https://data.cccnewyork.org/data/download#0,8,10/66)
 
 ## Tools
 
